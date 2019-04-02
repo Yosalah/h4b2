@@ -1,6 +1,6 @@
 owner=512405599116591105
-prefix=2
-game=H4B 2play
+prefix=3
+game=H4B 3play
 stayinchannel=true
 songinstatus=false
-token=NTYyNzgzNTEzNTI3NzEzODAy.XKPzSg.rOdtp6seic1miCW1FPcTGitlwgY
+token=NTYyNzg1NjMxNzMwNzk0NTQ4.XKP1Dw.YzrHVPh5g2GTgUcLKisZo9YOw70
